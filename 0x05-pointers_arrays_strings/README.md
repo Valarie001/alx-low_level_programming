@@ -1,0 +1,1 @@
+pointers an arrays readme
